@@ -1,0 +1,17 @@
+
+program4.cpp
+gcc program4.cpp -o output && ./output
+6
+0 2 1 99 99 1
+2 0 99 2 1 99
+1 99 0 99 2 2
+99 2 99 0 1 5
+99 1 2 1 0 99
+1 99 2 5 99 0
+
+
+program6.cpp
+gcc program6.cpp -o output && ./output
+1 1 0 1 0 1 0
+1
+10
